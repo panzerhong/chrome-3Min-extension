@@ -81,14 +81,9 @@ alert("Backround S running")
 
 Background scripts and many other components must be registered in the manifest. Registering a background script in the manifest tells the extension which files to reference, and how that file will behave.
 
-Now place all those four files within a folder. The folder must be named to whatever you want to call your extension. If done correctly your folder should look ← like this
-
 ![Screenshot](/screenshot.PNG)
-<img src="./screenshot.PNG" raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;” >
 
-[![Screenshot of this extension](./screenshot.PNG)][cws]
+<!-- [![Screenshot of this extension](./screenshot.PNG)][cws] -->
 
 To import extensions into your browser:
 Go to chrome://extensions in the target Chrome browser and enable "Developer mode" by the checkbox in the upper right.
