@@ -88,6 +88,7 @@ Now place all those four files within a folder. The folder must be named to what
 alt=“Subject Pronouns”
 style=“margin-right: 10px;” >
 
+[![Screenshot of this extension](./screenshot.png)][cws]
 
 To import extensions into your browser:
 Go to chrome://extensions in the target Chrome browser and enable "Developer mode" by the checkbox in the upper right.
