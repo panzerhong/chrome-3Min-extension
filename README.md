@@ -83,12 +83,12 @@ Background scripts and many other components must be registered in the manifest.
 
 Now place all those four files within a folder. The folder must be named to whatever you want to call your extension. If done correctly your folder should look ← like this
 
-![Screenshot](/screenshot.png)
-<img src="screenshot.png" raw=true
+![Screenshot](/screenshot.PNG)
+<img src="screenshot.PNG" raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;” >
 
-[![Screenshot of this extension](./screenshot.png)][cws]
+[![Screenshot of this extension](./screenshot.PNG)][cws]
 
 To import extensions into your browser:
 Go to chrome://extensions in the target Chrome browser and enable "Developer mode" by the checkbox in the upper right.
