@@ -84,7 +84,7 @@ Background scripts and many other components must be registered in the manifest.
 Now place all those four files within a folder. The folder must be named to whatever you want to call your extension. If done correctly your folder should look ← like this
 
 ![Screenshot](/screenshot.PNG)
-<img src="/screenshot.PNG" raw=true
+<img src="./screenshot.PNG" raw=true
 alt=“Subject Pronouns”
 style=“margin-right: 10px;” >
 
